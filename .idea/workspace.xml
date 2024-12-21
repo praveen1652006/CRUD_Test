@@ -124,7 +124,7 @@
       <workItem from="1734793927456" duration="2440000" />
       <workItem from="1734796562363" duration="1287000" />
       <workItem from="1734797915013" duration="2291000" />
-      <workItem from="1734800514468" duration="7517000" />
+      <workItem from="1734800514468" duration="7892000" />
     </task>
     <servers />
   </component>
@@ -137,5 +137,9 @@
       <path value="$PROJECT_DIR$/CRUD_Test" />
       <path value="$PROJECT_DIR$/../../../../mygit" />
     </ignored-roots>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
